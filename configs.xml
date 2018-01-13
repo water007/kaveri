@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configs>
+	<main>
+		<img res="360" motion_det="1"/>
+		<wifi_st ssid="Virus Android" password="prakashhotspot"/>
+		<wifi_ap ssid="Nuvoton" password="12345"/>
+		<sips username="test" password="124"/>
+	</main>
+	<sensors>
+		<als threshold="45"/>
+		<sdcard save="1"/>
+		<audio level="23"/>
+	</sensors>
+</configs>
